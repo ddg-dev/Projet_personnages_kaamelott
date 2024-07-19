@@ -1,0 +1,289 @@
+[
+    {
+        "id": 30,
+        "nom": "Le Roi Burgonde",
+        "genre": "Masculin",
+        "citation": "La fleur en bouquet fane, et jamais ne renaît !",
+        "photo": "images/roi-burgonde.jpg",
+        "intelligence": 2
+    },
+
+    {
+        "id": 3,
+        "nom": "Caesar Imperator",
+        "genre": "Masculin",
+        "citation": "A l'époque, quand je levais le doigt, y avait 15 000 soldats qui gueulaient Imperator ! Maintenant, quand je lève le doigt, c'est pour aller pisser...",
+        "photo": "images/caesar.jpg",
+        "intelligence": 29
+    },
+
+    {
+        "id": 4,
+        "nom": "Perceval",
+        "genre": "Masculin",
+        "citation": "C'est pas moi qu'explique mal, c'est les autres qui sont cons !",
+        "photo": "images/perceval.jpg",
+        "intelligence": 28
+    },
+
+    {
+        "id": 5,
+        "nom": "Angharad",
+        "genre": "Féminin",
+        "citation": "Si Monsieur et Madame préfèrent s'envoyer des fions dans l'intimité, je peux aussi me retirer.",
+        "photo": "images/angharad.jpg",
+        "intelligence": 27
+    },
+
+    {
+        "id": 15,
+        "nom": "La Duchesse d'Aquitaine",
+        "genre": "Féminin",
+        "citation": "Ah voilà, voilà, voilà ... C'est la bonne solution, me faire passer pour une connasse ambitieuse, c’est très bien !",
+        "photo": "images/duchesse-aquitaine.jpg",
+        "intelligence": 17
+    },
+
+    {
+        "id": 7,
+        "nom": "Père Blaise",
+        "genre": "Masculin",
+        "citation": "Non mais là ! Pourtant vous allez pas dire que j'suis à cheval sur les principes ! Mais question chasteté on a quand même un chevalier sur huit qui est cul nu !",
+        "photo": "images/pere-blaise.jpg",
+        "intelligence": 25
+    },
+
+    {
+        "id": 2,
+        "nom": "Méléagant",
+        "genre": "Masculin",
+        "citation": "Mais c'est de ma faute, à moi, si vous semez des pères adoptifs dans tout le pays ?",
+        "photo": "images/meleagant.jpg",
+        "intelligence": 30
+    },
+
+    {
+        "id": 9,
+        "nom": "Léodagan",
+        "genre": "Masculin",
+        "citation": "Moi, j’ai appris à lire, et ben je souhaite ça à personne !",
+        "photo": "images/leodagan.jpg",
+        "intelligence": 23
+    },
+
+    {
+        "id": 10,
+        "nom": "Dame Séli",
+        "genre": "Féminin",
+        "citation": "Tout le monde le sait, en Carmélide, que vous êtes une patate. Seulement, ça passe parce que les gens savent que c'est moi qui tire les ficelles dans l'arrière boutique.",
+        "photo": "images/seli.jpg",
+        "intelligence": 22
+    },
+
+    {
+        "id": 6,
+        "nom": "Lancelot",
+        "genre": "Masculin",
+        "citation": "Pour tout vous dire, je crois pas que ce soit bon pour mon autorité que mes soldats apprennent que je suis \"une grosse pucelle\" !",
+        "photo": "images/lancelot.jpg",
+        "intelligence": 26
+    },
+
+    {
+        "id": 11,
+        "nom": "Le Maître d'Armes",
+        "genre": "Masculin",
+        "citation": "Moi, une fois, j'étais soûl comme cochon, je me suis fait tatouer \"J'aime le raisin de table\" sur la miche droite, et ça y est toujours !",
+        "photo": "images/maitre-d-armes.jpg",
+        "intelligence": 21
+    },
+
+    {
+        "id": 13,
+        "nom": "Bohort",
+        "genre": "Masculin",
+        "citation": "Fort heureusement, je tiens à préciser que l'incident n'a fait aucune victime.",
+        "photo": "images/bohort.jpg",
+        "intelligence": 19
+    },
+
+    {
+        "id": 1,
+        "nom": "Arthur",
+        "genre": "Masculin",
+        "citation": "Vous, vous devriez arrêter de sourire. J'vous promets, ça devient vraiment malsain.",
+        "photo": "images/arthur.jpg",
+        "intelligence": 31
+    },
+
+    {
+        "id": 14,
+        "nom": "Mevanwi",
+        "genre": "Féminin",
+        "citation": "Selon Karadoc, un lit n’est pas un lit s'il n’y a pas de quoi manger une semaine dedans sans en sortir.",
+        "photo": "images/mevanwi.jpg",
+        "intelligence": 18
+    },
+
+    {
+        "id": 8,
+        "nom": "Elias de Keliwich'h",
+        "genre": "Masculin",
+        "citation": "Écoutez, si j'avais un sort pour contrecarrer les volontés divines, je serais pas en train de faire des potions de virilité pour tous les mous de la tige du pays breton.",
+        "photo": "images/elias.jpg",
+        "intelligence": 24
+    },
+
+    {
+        "id": 32,
+        "nom": "Caius Camillus",
+        "genre": "Masculin",
+        "citation": "Hé les connards ! Vous pouvez faire griller un porcelet s'il vous plaît ?",
+        "photo": "images/caius.jpg",
+        "intelligence": 15
+    },
+
+    {
+        "id": 12,
+        "nom": "Venec",
+        "genre": "Masculin",
+        "citation": "Je vous ai déjà dit que je prête du pognon à des taux vraiment pas dégueulasses ?",
+        "photo": "images/venec.jpg",
+        "intelligence": 20
+    },
+
+    {
+        "id": 17,
+        "nom": "Le Jurisconsulte",
+        "genre": "Masculin",
+        "citation": "Mais vous êtes une grosse morue !",
+        "photo": "images/jurisconsulte.jpg",
+        "intelligence": 15
+    },
+
+    {
+        "id": 18,
+        "nom": "Merlin",
+        "genre": "Masculin",
+        "citation": "Mais évidemment, c'est sans alcool !",
+        "photo": "images/merlin.jpg",
+        "intelligence": 14
+    },
+
+    {
+        "id": 19,
+        "nom": "Guenièvre",
+        "genre": "Féminin",
+        "citation": "J’y connais rien, hein, mais… À votre avis, le fait que vous me touchiez pratiquement jamais, ça a une influence sur la fécondité ?",
+        "photo": "images/guenievre.jpg",
+        "intelligence": 13
+    },
+
+    {
+        "id": 20,
+        "nom": "Guethenoc",
+        "genre": "Masculin",
+        "citation": "Ce que je dis, tout le monde s'en tamponne ! Je gueule, je gueule, j'pourrais gueuler dans le cul d'un poney ce serait pareil !",
+        "photo": "images/guethenoc.jpg",
+        "intelligence": 12
+    },
+
+    {
+        "id": 21,
+        "nom": "Roparzh",
+        "genre": "Masculin",
+        "citation": "I faut faire tenir un balai en équilibre sur le pif pour s'faire servir ici, ou quoi qu'ce soiye ?",
+        "photo": "images/roparzh.jpg",
+        "intelligence": 11
+    },
+
+    {
+        "id": 22,
+        "nom": "Ferghus",
+        "genre": "Masculin",
+        "citation": "Démantèle, démantèle !! Moi, ça, même si je l'apprends phonétique, j'vous le dit je vais galérer !",
+        "photo": "images/ferghus.jpg",
+        "intelligence": 10
+    },
+
+    {
+        "id": 23,
+        "nom": "Ketchatar",
+        "genre": "Masculin",
+        "citation": "Alors là il y a que la tarte dans la gueule !",
+        "photo": "images/ketchatar.jpg",
+        "intelligence": 9
+    },
+
+    {
+        "id": 24,
+        "nom": "Gauvain",
+        "genre": "Masculin",
+        "citation": "Et à un moment... Le sorcier s'est mis à nous menacer, avec ses parties génitales.",
+        "photo": "images/gauvain.jpg",
+        "intelligence": 8
+    },
+
+    {
+        "id": 25,
+        "nom": "Yvain",
+        "genre": "Masculin",
+        "citation": "Ne vous laissez pas embobiner… Ils cherchent à vous rembobiner !",
+        "photo": "images/yvain.jpg",
+        "intelligence": 7
+    },
+
+    {
+        "id": 26,
+        "nom": "Grudu",
+        "genre": "Masculin",
+        "citation": "J'ai rêvé qu'il y avait des scorpions qui voulaient me piquer. En plus, y en avait un il était mi-ours, mi-scorpion et re mi-ours derrière ! ",
+        "photo": "images/grudu.jpg",
+        "intelligence": 6
+    },
+
+    {
+        "id": 27,
+        "nom": "Karadoc",
+        "genre": "Masculin",
+        "citation": "Si ça peut m'éviter de chlinguer du cul, je peux bien me tremper une ou deux fois par an.",
+        "photo": "images/karadoc.jpg",
+        "intelligence": 5
+    },
+
+    {
+        "id": 28,
+        "nom": "Kadoc",
+        "genre": "Masculin",
+        "citation": "Pour savoir s’y a du vent, il faut mettre son doigt dans le cul du coq.",
+        "photo": "images/kadoc.jpg",
+        "intelligence": 4
+    },
+
+    {
+        "id": 29,
+        "nom": "Nessa",
+        "genre": "Féminin",
+        "citation": "Monsieur va me faire le plaisir d'avaler son petit déjeuner et de s'occuper un peu de moi !",
+        "photo": "images/nessa.jpg",
+        "intelligence": 3
+    },
+
+    {
+        "id": 31,
+        "nom": "Hervé de Rinel",
+        "genre": "Masculin",
+        "citation": "J’ai pénétré leur lieu d'habitation de façon subrogative […] en tapinant.",
+        "photo": "images/herve-rinel.jpg",
+        "intelligence": 1
+    },
+
+    {
+        "id": 16,
+        "nom": "Loth",
+        "genre": "Masculin",
+        "citation": "Ave Cesar, rosae rosam, et spiritus rex ! Ah non, parce que là, j’en ai marre !",
+        "photo": "images/loth.jpg",
+        "intelligence": 16
+    }
+]
